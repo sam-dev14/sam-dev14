@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👨‍💻 Samuel Arthur
 
-<!--
-**sam-dev14/sam-dev14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas – UNIFAMETRO**  
+💻 Desenvolvedor em formação com foco em **Java e desenvolvimento backend**  
+🛠 Experiência com **suporte técnico, Active Directory e administração de sistemas**  
+🚀 Em busca da **primeira oportunidade como desenvolvedor**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou estudante de tecnologia apaixonado por desenvolvimento de software e resolução de problemas.
+
+Atualmente estou focado em evoluir minhas habilidades em **Java**, enquanto trabalho com **suporte técnico e administração de usuários** em ambiente corporativo.
+
+Tenho experiência prática com:
+
+- Suporte de TI e atendimento de chamados
+- Gerenciamento de usuários no **Active Directory**
+- Administração de usuários e turmas no **Moodle**
+
+Meu objetivo é crescer na área de **desenvolvimento backend** e participar da criação de soluções que realmente impactem pessoas.
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+### 💻 Linguagens
+- Java
+- Python
+- C++ (Hobby)
+
+### ⚙️ Ferramentas
+- Git
+- Linux (Fedora)
+- VS Code
+
+### 🖥 Infraestrutura / Suporte
+- Active Directory
+- Suporte técnico
+- Manutenção de computadores
+
+---
+
+## 📚 Atualmente estudando
+
+- ☕ Java (POO, Collections, Streams)
+- ⚙️ Estrutura de dados
+- 🧠 Lógica e resolução de problemas
+- 🐧 Linux e ambiente de desenvolvimento
+
+---
+
+## 📈 Objetivos
+
+- Conseguir minha **primeira vaga como desenvolvedor**
+- Dominar o **ecossistema Java**
+- Contribuir em **projetos open source**
+- Construir projetos sólidos para meu portfólio
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark)
+
+---
+
+## 📫 Contato
+
+📧 Email: samuelarthurp.lima@gmail.com
+💼 LinkedIn: www.linkedin.com/in/sam-dev14
+
+---
+
+⭐ Sempre aprendendo, sempre construindo.
