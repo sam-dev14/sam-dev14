@@ -28,7 +28,6 @@ Meu objetivo é crescer na área de **desenvolvimento backend** e participar da 
 ### 💻 Linguagens
 - Java
 - Python
-- C++ (Hobby)
 
 ### ⚙️ Ferramentas
 - Git
