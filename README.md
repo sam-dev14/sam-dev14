@@ -1,7 +1,7 @@
 # 👨‍💻 Samuel Arthur
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas – UNIFAMETRO**  
-💻 Desenvolvedor em formação com foco em **Java e desenvolvimento backend**  
+💻 Desenvolvedor em formação com foco em **Python**  
 🛠 Experiência com **suporte técnico, Active Directory e administração de sistemas**  
 🚀 Em busca da **primeira oportunidade como desenvolvedor**
 
@@ -26,8 +26,8 @@ Meu objetivo é crescer na área de **desenvolvimento backend** e participar da 
 ## 🛠 Tecnologias e Ferramentas
 
 ### 💻 Linguagens
-- Java
 - Python
+- Java
 
 ### ⚙️ Ferramentas
 - Git
@@ -43,7 +43,7 @@ Meu objetivo é crescer na área de **desenvolvimento backend** e participar da 
 
 ## 📚 Atualmente estudando
 
-- ☕ Java (POO, Collections, Streams)
+- 🐍 Python
 - ⚙️ Estrutura de dados
 - 🧠 Lógica e resolução de problemas
 - 🐧 Linux e ambiente de desenvolvimento
@@ -61,9 +61,9 @@ Meu objetivo é crescer na área de **desenvolvimento backend** e participar da 
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam-dev14&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-dev14&layout=compact&theme=dark)
 
 ---
 
