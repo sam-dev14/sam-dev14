@@ -11,7 +11,7 @@
 
 Sou estudante de tecnologia apaixonado por desenvolvimento de software e resolução de problemas.
 
-Atualmente estou focado em evoluir minhas habilidades em **Java**, enquanto trabalho com **suporte técnico e administração de usuários** em ambiente corporativo.
+Atualmente estou focado em evoluir minhas habilidades em **Python**, enquanto trabalho com **suporte técnico e administração de usuários** em ambiente corporativo.
 
 Tenho experiência prática com:
 
