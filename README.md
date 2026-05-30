@@ -27,12 +27,11 @@ Meu objetivo é crescer na área de **desenvolvimento backend** e participar da 
 
 ### 💻 Linguagens
 - Python
-- Java
+- C++
 
 ### ⚙️ Ferramentas
 - Git
-- Linux (Fedora)
-- VS Code
+- Linux (Debian)
 
 ### 🖥 Infraestrutura / Suporte
 - Active Directory
@@ -52,9 +51,8 @@ Meu objetivo é crescer na área de **desenvolvimento backend** e participar da 
 
 ## 📈 Objetivos
 
-- Conseguir minha **primeira vaga como desenvolvedor**
-- Dominar o **ecossistema Java**
-- Contribuir em **projetos open source**
+- Conseguir minha **primeira vaga como analista de dados**
+- Dominar o **ecossistema Python**
 - Construir projetos sólidos para meu portfólio
 
 ---
