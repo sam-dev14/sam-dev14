@@ -57,14 +57,6 @@ Meu objetivo é crescer na área de **desenvolvimento backend** e participar da 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam-dev14&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-dev14&layout=compact&theme=dark)
-
----
-
 ## 📫 Contato
 
 📧 Email: samuelarthurp.lima@gmail.com
