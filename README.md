@@ -1,7 +1,7 @@
 # 👨‍💻 Samuel Arthur
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas – UNIFAMETRO**  
-💻 Desenvolvedor em formação com foco em **Python**  
+💻 Desenvolvedor em formação com foco em **JavaScript**  
 🛠 Experiência com **suporte técnico, Active Directory e administração de sistemas**  
 🚀 Em busca da **primeira oportunidade como desenvolvedor**
 
@@ -11,7 +11,7 @@
 
 Sou estudante de tecnologia apaixonado por desenvolvimento de software e resolução de problemas.
 
-Atualmente estou focado em evoluir minhas habilidades em **Python**, enquanto trabalho com **suporte técnico e administração de usuários** em ambiente corporativo.
+Atualmente estou focado em evoluir minhas habilidades em **JavaScript**, enquanto trabalho com **suporte técnico e administração de usuários** em ambiente corporativo.
 
 Tenho experiência prática com:
 
@@ -26,7 +26,8 @@ Meu objetivo é crescer na área de **desenvolvimento backend** e participar da 
 ## 🛠 Tecnologias e Ferramentas
 
 ### 💻 Linguagens
-- Python
+- JavaScript
+- Java
 - C++
 
 ### ⚙️ Ferramentas
@@ -42,7 +43,7 @@ Meu objetivo é crescer na área de **desenvolvimento backend** e participar da 
 
 ## 📚 Atualmente estudando
 
-- 🐍 Python
+- 🐍 JavaScript
 - ⚙️ Estrutura de dados
 - 🧠 Lógica e resolução de problemas
 - 🐧 Linux e ambiente de desenvolvimento
@@ -51,8 +52,8 @@ Meu objetivo é crescer na área de **desenvolvimento backend** e participar da 
 
 ## 📈 Objetivos
 
-- Conseguir minha **primeira vaga como analista de dados**
-- Dominar o **ecossistema Python**
+- Conseguir minha **primeira vaga como desenvolvedor front-end**
+- Dominar o **ecossistema JavaScript**
 - Construir projetos sólidos para meu portfólio
 
 ---
