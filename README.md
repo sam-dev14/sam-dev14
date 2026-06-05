@@ -43,7 +43,7 @@ Meu objetivo é crescer na área de **desenvolvimento backend** e participar da 
 
 ## 📚 Atualmente estudando
 
-- 🐍 JavaScript
+- 💻 JavaScript
 - ⚙️ Estrutura de dados
 - 🧠 Lógica e resolução de problemas
 - 🐧 Linux e ambiente de desenvolvimento
