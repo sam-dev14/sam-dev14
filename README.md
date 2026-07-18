@@ -1,4 +1,4 @@
-# Olá, eu sou o [Samuel Arthur]! 👋
+# Olá, eu sou o Samuel Arthur! 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFAMETRO. Meu foco principal de estudo e atuação é na área de **Dados**, utilizando o ecossistema **Python**. Como Hobby estudo as linguagens C e C++.
 
@@ -8,7 +8,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFAMETRO. Meu
 - 📊 Focando no desenvolvimento voltado à análise, estruturação e manipulação de dados.
 - 💻 Experiência prática com **Python**.
 - 🐧 Utilizo ambientes Linux no dia a dia.
-- 📫 Como me contatar: **[samuelarthurp.lima@email.com]** ou pelo [LinkedIn](https://linkedin.com/in/sam-dev14).
+- 📫 Como me contatar: **samuelarthurp.lima@email.com** ou pelo [LinkedIn](https://linkedin.com/in/sam-dev14).
 
 ## 🛠️ Tecnologias e Ferramentas
 
