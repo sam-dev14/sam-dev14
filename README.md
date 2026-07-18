@@ -1,6 +1,6 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o [Samuel Arthur]! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFAMETRO. Meu foco principal de estudo e atuação é na área de **Dados**, utilizando o ecossistema **Python**.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFAMETRO. Meu foco principal de estudo e atuação é na área de **Dados**, utilizando o ecossistema **Python**. Como Hobby estudo as linguagens C e C++.
 
 ## 🚀 Sobre mim
 
@@ -22,10 +22,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFAMETRO. Meu
 ### Infraestrutura & Ferramentas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sam-dev14&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-dev14&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150" />
-</p>
