@@ -1,6 +1,6 @@
 # Olá, eu sou o Samuel Arthur! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFAMETRO. Meu foco principal de estudo e atuação é na área de **Cybersecurity**, aprendendo tecnologias com **JavaScript** e **Python**.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFAMETRO. Meu foco principal de estudo e atuação é na área de **Cybersecurity**, aprendendo tecnologias como **JavaScript** e **Python**.
 
 ## 🚀 Sobre mim
 
