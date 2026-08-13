@@ -5,7 +5,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFAMETRO. Meu
 ## 🚀 Sobre mim
 
 - 🎓 Acadêmico em Análise e Desenvolvimento de Sistemas na UNIFAMETRO.
-- 📊 Focando no desenvolvimento focado para **Cybersecurity**.
+- 📊 Focando no desenvolvimento de conhecimentos em **Cybersecurity**.
 - 💻 Aprendendo **JavaScript** e **Python**.
 - 🐧 Utilizo ambientes Linux no dia a dia.
 - 📫 Como me contatar: **samuelarthurp.lima@email.com** ou pelo [LinkedIn](https://linkedin.com/in/sam-dev14).
