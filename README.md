@@ -26,11 +26,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNIFAMETRO e atuo
 ### 📊 Estatísticas do GitHub
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-dev14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-dev14&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-dev14&layout=compact&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-dev14&layout=compact&hide_border=true" />
 </p>
 
 ---
